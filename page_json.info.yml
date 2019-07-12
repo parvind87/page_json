@@ -6,3 +6,4 @@ package: 'Custom'
 
 dependencies:
   - drupal:serialization
+configure: system.site_information_settings
