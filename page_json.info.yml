@@ -1,0 +1,5 @@
+name: 'page_json'
+type: module
+description: 'This module generates json of the node having "page" content type.'
+core: 8.x
+package: 'Custom'

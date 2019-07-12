@@ -1,0 +1,8 @@
+page_json.page_json:
+  path: '/page_json/{api_key}/{nid}'
+  defaults:
+    _controller: '\Drupal\page_json\Controller\PageJsonController::pageJson'
+    _title: 'Page JSON '
+  methods:  [GET]
+  requirements:
+    _access: 'TRUE'
