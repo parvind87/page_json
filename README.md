@@ -10,3 +10,8 @@ http://example.com/admin/config/system/site-information
 Dependecies
 --------------
 The module uses the Drupal's core Serialization module to generate JSON.
+
+Author
+----------------
+Parvind Kumar
+
